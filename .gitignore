@@ -1,0 +1,19 @@
+# Data files (too large for git)
+dataset/
+*.csv
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+
+# Outputs
+outputs/models/
+outputs/figures/
+
+# Environment
+.env
+venv/
