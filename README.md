@@ -107,6 +107,11 @@ ml_home_credit_default/
 git clone <repo-url>
 cd ml_home_credit_default
 
+# Run virtual environment
+python -m venv venv
+source venv/bin/activate  # Mac/Linux
+venv\Scripts\activate     # Windows
+
 # Install dependencies
 pip install -r requirements.txt
 
