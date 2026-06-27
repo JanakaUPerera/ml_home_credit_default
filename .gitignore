@@ -17,3 +17,7 @@ outputs/figures/
 # Environment
 .env
 venv/
+
+# Docs
+WORK_PLAN.md
+docs/
